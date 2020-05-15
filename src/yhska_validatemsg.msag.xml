@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>YHSKA_VALIDATEMSG</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Individual Error Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YHSKA_VALIDATEMSG</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>The publishing year cannot be in the future</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YHSKA_VALIDATEMSG</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>The &apos;Publishing year&apos; field cannot be empty</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YHSKA_VALIDATEMSG</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>The &apos;Developed by&apos; field cannot be empty</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YHSKA_VALIDATEMSG</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>The &apos;Rating&apos; field cannot be empty</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YHSKA_VALIDATEMSG</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>The &apos;Name&apos; field cannot be empty</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

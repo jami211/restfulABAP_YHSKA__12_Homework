@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for languages'
+define service ZUI_C_LANGUAGE_M_012 {
+  expose ZC_LANGUAGE_M_012 as LanguageProcessor;
+}
